@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-24T23:00:55 EDT" name="Default suite" finished-at="2023-05-24T23:00:56 EDT" duration-ms="1275">
+    <groups>
+    </groups>
+    <test started-at="2023-05-24T23:00:55 EDT" name="Default test" finished-at="2023-05-24T23:00:56 EDT" duration-ms="1275">
+      <class name="RestAssured.APITest">
+        <test-method signature="getAllProducts()[pri:0, instance:RestAssured.APITest@1e6454ec]" started-at="2023-05-24T23:00:55 EDT" name="getAllProducts" finished-at="2023-05-24T23:00:56 EDT" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProducts -->
+        <test-method signature="getCategoryTwo()[pri:0, instance:RestAssured.APITest@1e6454ec]" started-at="2023-05-24T23:00:56 EDT" name="getCategoryTwo" finished-at="2023-05-24T23:00:56 EDT" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCategoryTwo -->
+      </class> <!-- RestAssured.APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
